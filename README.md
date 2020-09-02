@@ -8,7 +8,7 @@
 
 <h3> :sun_with_face: Github</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=QiuYukang&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=QiuYukang&count_private=true&show_icons=true&hide=stars)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuYukang&layout=compact)
 
 <!--
