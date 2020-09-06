@@ -19,12 +19,12 @@ inputs:
 
   SHOW_TITLE:
     description: "Displays the week number and days in Readme as title"
-    default: false
+    default: true
     required: false
     
   COMMIT_MESSAGE:
     description: "Add a commit message of your choice"
-    default: "Updated the Graph with new Metrics"
+    default: "Update the graph of WakaTime automatically"
     required: false
 
 
