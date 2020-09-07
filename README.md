@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2020 - 05 September, 2020
+Week: 30 August, 2020 - 06 September, 2020
 
 Java       2 hrs 40 mins   ███████████████▓░░░░░░░░░   62.49 % 
 Markdown   1 hr 8 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.84 % 
