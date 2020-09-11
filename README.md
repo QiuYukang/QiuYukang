@@ -8,8 +8,8 @@
 
 <h3> 🌞 Github</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=QiuYukang&count_private=true&show_icons=true&hide=stars)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuYukang&layout=compact)
+![Github Stats](https://github-readme-stats-beta-lovat.vercel.app/api?username=QiuYukang&count_private=true&show_icons=true&hide=stars)
+![Langs](https://github-readme-stats-beta-lovat.vercel.app/api/top-langs/?username=QiuYukang&count_private=true&layout=compact)
 
 <h3> 📊 This week I spent my time on</h3>
 
