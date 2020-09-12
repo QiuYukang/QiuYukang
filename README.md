@@ -15,13 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2020 - 10 September, 2020
+Week: 04 September, 2020 - 11 September, 2020
 
-C++        12 hrs 14 mins  ███████████▒░░░░░░░░░░░░░   44.71 % 
-Java       8 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Markdown   3 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Other      1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-JSON       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+C++        17 hrs 46 mins  █████████████░░░░░░░░░░░░   51.59 % 
+Java       8 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.59 % 
+Markdown   4 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Other      2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+JSON       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 <!--END_SECTION:waka-->
 
