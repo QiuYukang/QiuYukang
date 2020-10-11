@@ -15,10 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
-Java   3 hrs 26 mins   ███████████████████████▒░   93.05 % 
-C++    15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Java          1 hr 12 mins    ████████████░░░░░░░░░░░░░   47.69 % 
+C++           1 hr 10 mins    ███████████▓░░░░░░░░░░░░░   46.40 % 
+Other         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 
