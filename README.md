@@ -15,13 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2020 - 07 November, 2020
+Week: 01 November, 2020 - 08 November, 2020
 
-Java         4 hrs 57 mins   ███████████████████▒░░░░░   76.92 % 
-C++          1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Java         4 hrs 57 mins   █████████████████████▒░░░   85.38 % 
+C++          35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
 
