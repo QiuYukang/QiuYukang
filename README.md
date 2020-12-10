@@ -15,11 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2020 - 08 December, 2020
+Week: 02 December, 2020 - 09 December, 2020
 
-Java         7 hrs 19 mins   ███████████████████████▒░   93.49 % 
-Markdown     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Java       3 hrs 17 mins   ███████████████████████▒░   93.31 % 
+Markdown   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 ```
 <!--END_SECTION:waka-->
 
