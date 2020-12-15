@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2020 - 13 December, 2020
+Week: 07 December, 2020 - 14 December, 2020
 
-Java       18 mins         ███████████████████░░░░░░   76.58 % 
-Markdown   5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Java       18 mins         ███████████████████▒░░░░░   77.78 % 
+Markdown   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.22 % 
 ```
 <!--END_SECTION:waka-->
 
