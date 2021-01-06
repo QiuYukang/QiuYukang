@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-Java       9 hrs 31 mins   ██████████████████████▒░░   89.31 % 
-Markdown   1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Java       9 hrs 25 mins   ██████████████████████▒░░   89.48 % 
+Markdown   1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 ```
 <!--END_SECTION:waka-->
 
