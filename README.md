@@ -15,13 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2021 - 13 January, 2021
+Week: 07 January, 2021 - 14 January, 2021
 
-C++                2 hrs 16 mins   ████████████▓░░░░░░░░░░░░   51.22 % 
-Markdown           1 hr 13 mins    ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-Java               54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-C                  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Java               5 hrs 3 mins    ███████████████░░░░░░░░░░   60.34 % 
+C++                2 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.10 % 
+Markdown           1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+C                  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
 
