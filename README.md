@@ -15,11 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
-Java               8 hrs 25 mins   ████████████████▓░░░░░░░░   66.55 % 
+Java               8 hrs 39 mins   █████████████████░░░░░░░░   68.38 % 
 C++                3 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
-Markdown           57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Markdown           43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 C                  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
