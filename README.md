@@ -15,10 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
-Java       1 hr 10 mins    ████████████▓░░░░░░░░░░░░   51.24 % 
-Markdown   1 hr 7 mins     ████████████▒░░░░░░░░░░░░   48.76 % 
+Java         2 hrs 55 mins   █████████████████░░░░░░░░   67.74 % 
+Markdown     1 hr 23 mins    ████████░░░░░░░░░░░░░░░░░   32.22 % 
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
 
