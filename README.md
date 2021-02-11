@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 Java         3 hrs 37 mins   ██████████████████░░░░░░░   71.56 % 
 Markdown     1 hr 26 mins    ███████░░░░░░░░░░░░░░░░░░   28.40 % 
