@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 March, 2021 - 27 March, 2021
+Week: 21 March, 2021 - 28 March, 2021
 
-Java       7 hrs 41 mins   ████████████████████▓░░░░   82.80 % 
-Markdown   1 hr 35 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Java       5 hrs 2 mins    ██████████████████░░░░░░░   71.59 % 
+Markdown   2 hrs           ███████░░░░░░░░░░░░░░░░░░   28.41 % 
 ```
 <!--END_SECTION:waka-->
 
