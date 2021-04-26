@@ -15,12 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 April, 2021 - 24 April, 2021
+Week: 18 April, 2021 - 25 April, 2021
 
-Java         1 hr 30 mins    ██████████████████████▓░░   91.20 % 
-Properties   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java         57 mins         ██████████████████████▓░░   91.05 % 
+Properties   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 <!--END_SECTION:waka-->
 
