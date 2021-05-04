@@ -15,10 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 April, 2021 - 02 May, 2021
+Week: 26 April, 2021 - 03 May, 2021
 
-Markdown   2 mins          ███████████████████████▓░   94.02 % 
-Java       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown   0 secs          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
