@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 May, 2021 - 11 May, 2021
+Week: 05 May, 2021 - 12 May, 2021
 
 Java         1 hr 35 mins    ████████████████████░░░░░   80.46 % 
 Markdown     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
