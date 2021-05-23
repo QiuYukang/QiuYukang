@@ -15,10 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2021 - 21 May, 2021
+Week: 15 May, 2021 - 22 May, 2021
 
-Java       1 min           ████████████████████████▒   97.21 % 
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Java         44 mins         ████████████████████████░   96.04 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
 
