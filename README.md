@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 May, 2021 - 26 May, 2021
+Week: 20 May, 2021 - 27 May, 2021
 
 Java         43 mins         ████████████████████████░   96.04 % 
 Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
