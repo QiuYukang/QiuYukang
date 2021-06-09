@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 May, 2021 - 07 June, 2021
+Week: 01 June, 2021 - 08 June, 2021
 
-Java       13 mins         ███████████████████▒░░░░░   76.89 % 
-Markdown   3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.11 % 
+Java       9 mins          ██████████████████░░░░░░░   71.96 % 
+Markdown   3 mins          ███████░░░░░░░░░░░░░░░░░░   28.04 % 
 ```
 <!--END_SECTION:waka-->
 
