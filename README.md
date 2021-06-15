@@ -15,10 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 June, 2021 - 13 June, 2021
-
-Java       9 mins          ██████████████████░░░░░░░   71.96 % 
-Markdown   3 mins          ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
