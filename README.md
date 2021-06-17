@@ -15,7 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 June, 2021 - 16 June, 2021
+
+Markdown   0 secs          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
