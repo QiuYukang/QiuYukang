@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 July, 2021 - 19 July, 2021
+Week: 13 July, 2021 - 20 July, 2021
 
-Java       1 hr 43 mins    ████████████████████████▓   98.75 % 
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Java       1 hr 49 mins    ████████████████████████▓   98.81 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 
