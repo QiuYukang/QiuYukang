@@ -15,13 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 08 August, 2021
+Week: 02 August, 2021 - 09 August, 2021
 
-Java         8 hrs 13 mins   ███████████████████████▓░   94.39 % 
-Markdown     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Java       6 hrs 18 mins   ███████████████████████▒░   93.47 % 
+Markdown   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
