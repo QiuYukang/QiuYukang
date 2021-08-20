@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 18 August, 2021
+Week: 12 August, 2021 - 19 August, 2021
 
-Java   2 hrs 14 mins   █████████████████████████   99.87 % 
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Java   3 hrs 3 mins    █████████████████████████   99.91 % 
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 <!--END_SECTION:waka-->
 
