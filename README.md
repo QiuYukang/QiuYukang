@@ -15,9 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2021 - 08 September, 2021
+Week: 02 September, 2021 - 09 September, 2021
 
-Java         2 hrs 28 mins   █████████████████████████   99.94 % 
+Java         2 hrs 29 mins   █████████████████████████   99.94 % 
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
