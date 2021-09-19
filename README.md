@@ -15,7 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 September, 2021 - 18 September, 2021
+
+Java   10 mins         ████████████████████████▒   97.22 % 
+XML    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->
 
