@@ -15,7 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 October, 2021 - 21 October, 2021
+
+Java         2 hrs 18 mins   ██████████████████████▓░░   90.38 % 
+XML          12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
