@@ -15,12 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2021 - 29 October, 2021
+Week: 23 October, 2021 - 30 October, 2021
 
-Java         9 hrs 30 mins   ████████████████████████░   95.65 % 
-XML          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Properties   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Java         6 hrs 45 mins   ███████████████████████▓░   94.46 % 
+Properties   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+XML          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 <!--END_SECTION:waka-->
