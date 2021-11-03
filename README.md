@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2021 - 01 November, 2021
+Week: 26 October, 2021 - 02 November, 2021
 
-Java    5 hrs 24 mins   █████████████████████████   99.99 % 
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java    2 hrs 30 mins   █████████████████████████   99.97 % 
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 <!--END_SECTION:waka-->
 
