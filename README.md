@@ -15,7 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 November, 2021 - 10 November, 2021
+
+Java         17 mins         ████████████▓░░░░░░░░░░░░   50.65 % 
+Properties   8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+SQL          7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.81 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
