@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 November, 2021 - 15 November, 2021
+Week: 09 November, 2021 - 16 November, 2021
 
 Java         38 mins         ██████████████░░░░░░░░░░░   56.21 % 
 Properties   13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
