@@ -18,12 +18,14 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<!--
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C | Matlab | C++ | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🛢  &nbsp; MySQL | Redis
 - 🔧 &nbsp; NS-3 | Git | Markdown
+-->
 
 <h3> ☎️ Connect with Me </h3>
 &nbsp;&nbsp;
