@@ -9,12 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 14 December, 2021
+Week: 08 December, 2021 - 15 December, 2021
 
-Java         1 hr 28 mins    ███████████████████████░░   92.00 % 
-Other        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Java   55 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
