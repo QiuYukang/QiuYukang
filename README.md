@@ -9,13 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 08 January, 2022
-
-XML          8 mins          ███████████▓░░░░░░░░░░░░░   46.48 % 
-Java         8 mins          ███████████▒░░░░░░░░░░░░░   45.09 % 
-Text         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-CLASS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
