@@ -9,7 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 January, 2022 - 12 January, 2022
+
+XML        10 mins         ████████████████░░░░░░░░░   63.58 % 
+Markdown   4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.69 % 
+Java       2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 ```
 <!--END_SECTION:waka-->
 
