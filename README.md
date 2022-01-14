@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 12 January, 2022
+Week: 06 January, 2022 - 13 January, 2022
 
 XML        10 mins         ████████████████░░░░░░░░░   63.58 % 
 Markdown   4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.69 % 
