@@ -9,12 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 16 January, 2022
+Week: 10 January, 2022 - 17 January, 2022
 
-Java         10 hrs 32 mins  ████████████████████▓░░░░   83.07 % 
-XML          1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Markdown     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-ANSI Aware   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Java         14 hrs 42 mins  █████████████████████▓░░░   86.01 % 
+XML          1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Markdown     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+ANSI Aware   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 <!--END_SECTION:waka-->
 
