@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2022 - 26 January, 2022
+Week: 20 January, 2022 - 27 January, 2022
 
 Python            9 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.99 % 
 Java              6 hrs 20 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 % 
