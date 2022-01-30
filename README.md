@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 28 January, 2022
+Week: 22 January, 2022 - 29 January, 2022
 
-Python            8 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.39 % 
-Java              5 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.86 % 
-Protocol Buffer   1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-protobuf          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Python            6 hrs 26 mins   ███████████▒░░░░░░░░░░░░░   45.37 % 
+Java              5 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   41.13 % 
+Protocol Buffer   1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+protobuf          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
