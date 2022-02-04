@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 02 February, 2022
+Week: 27 January, 2022 - 03 February, 2022
 
 Java       31 mins         ████████████▓░░░░░░░░░░░░   51.31 % 
 YAML       20 mins         ████████▓░░░░░░░░░░░░░░░░   34.12 % 
