@@ -9,11 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 08 February, 2022
+Week: 02 February, 2022 - 09 February, 2022
 
-Java   5 mins          ████████████▓░░░░░░░░░░░░   50.69 % 
-Text   4 mins          █████████▓░░░░░░░░░░░░░░░   38.22 % 
-YAML   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Java   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
