@@ -9,10 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 February, 2022 - 23 February, 2022
+Week: 17 February, 2022 - 24 February, 2022
 
-MATLAB   0 secs          ██████████████████████░░░   87.67 % 
-Java     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Java     4 mins          ████████████████████████░   96.04 % 
+MATLAB   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
