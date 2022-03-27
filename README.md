@@ -9,9 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 March, 2022 - 25 March, 2022
+Week: 19 March, 2022 - 26 March, 2022
 
-MATLAB   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java             5 mins          ███████████████░░░░░░░░░░   60.24 % 
+XML              1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.84 % 
+GitIgnore file   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
+YAML             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
 
