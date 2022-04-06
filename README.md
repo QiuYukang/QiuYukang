@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 March, 2022 - 04 April, 2022
+Week: 29 March, 2022 - 05 April, 2022
 
 Java         35 mins         ███████████████████████░░   91.55 % 
 Properties   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
