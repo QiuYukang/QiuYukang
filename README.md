@@ -9,7 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 08 May, 2022 - 15 May, 2022
+
+Java         2 mins          █████████████████████████   100.00 % 
+Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
 
