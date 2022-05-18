@@ -9,12 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 May, 2022 - 16 May, 2022
+Week: 10 May, 2022 - 17 May, 2022
 
-Go               2 hrs 5 mins    ███████████████████████░░   92.12 % 
-Markdown         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Java             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Go               4 hrs 5 mins    ████████████████████████░   95.81 % 
+Markdown         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Java             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
