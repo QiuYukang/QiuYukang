@@ -9,11 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 May, 2022 - 22 May, 2022
+Week: 16 May, 2022 - 23 May, 2022
 
-Go               4 hrs 5 mins    ████████████████████████▒   96.69 % 
-Markdown         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Go   2 hrs           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
