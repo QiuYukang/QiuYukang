@@ -9,9 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 May, 2022 - 27 May, 2022
+Week: 21 May, 2022 - 28 May, 2022
 
-Go   0 secs          █████████████████████████   100.00 % 
+Go   31 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
