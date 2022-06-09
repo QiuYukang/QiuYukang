@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 May, 2022 - 07 June, 2022
+Week: 01 June, 2022 - 08 June, 2022
 
 Go               47 mins         █████████████████████░░░░   84.17 % 
 Markdown         8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
