@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 June, 2022 - 16 June, 2022
+Week: 10 June, 2022 - 17 June, 2022
 
 Go   0 secs          █████████████████████████   100.00 % 
 ```
