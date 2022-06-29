@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 21 June, 2022 - 28 June, 2022
+
+Go   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
 
