@@ -9,9 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 June, 2022 - 05 July, 2022
+Week: 29 June, 2022 - 06 July, 2022
 
-Go   25 mins         █████████████████████████   100.00 % 
+Go   1 hr 15 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
