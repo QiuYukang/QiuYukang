@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 July, 2022 - 09 July, 2022
+Week: 03 July, 2022 - 10 July, 2022
 
 Go     2 hrs 11 mins   ███████████████████████▓░   95.29 % 
 INI    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
