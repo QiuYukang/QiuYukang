@@ -9,9 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 July, 2022 - 15 July, 2022
+Week: 09 July, 2022 - 16 July, 2022
 
-Java   4 mins          █████████████████████████   100.00 % 
+Java    47 mins         █████████████████████████   99.76 % 
+CLASS   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
 
