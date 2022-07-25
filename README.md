@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2022 - 23 July, 2022
+Week: 17 July, 2022 - 24 July, 2022
 
 Java             5 hrs 5 mins    ████████████████████████░   96.27 % 
 IDEA_MODULE      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
