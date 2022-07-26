@@ -9,13 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 July, 2022 - 24 July, 2022
+Week: 18 July, 2022 - 25 July, 2022
 
-Java             5 hrs 5 mins    ████████████████████████░   96.27 % 
-IDEA_MODULE      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Manifest         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Java   2 hrs 18 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
