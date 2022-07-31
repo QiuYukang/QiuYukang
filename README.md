@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 July, 2022 - 29 July, 2022
+Week: 23 July, 2022 - 30 July, 2022
 
 Go   8 mins          █████████████████████████   100.00 % 
 ```
