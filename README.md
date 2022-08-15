@@ -9,9 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2022 - 13 August, 2022
+Week: 07 August, 2022 - 14 August, 2022
 
-Go   46 mins         █████████████████████████   100.00 % 
+Go   59 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
