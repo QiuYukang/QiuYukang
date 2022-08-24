@@ -9,9 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2022 - 22 August, 2022
-
-Go   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
