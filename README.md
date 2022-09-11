@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 September, 2022 - 10 September, 2022
+
+Go   6 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
