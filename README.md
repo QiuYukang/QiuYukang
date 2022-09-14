@@ -9,9 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2022 - 12 September, 2022
+Week: 06 September, 2022 - 13 September, 2022
 
-Go   6 mins          █████████████████████████   100.00 % 
+Go     3 hrs 52 mins   ██████████████████████░░░   87.52 % 
+YAML   27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+JSON   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 <!--END_SECTION:waka-->
 
