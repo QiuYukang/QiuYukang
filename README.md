@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2022 - 19 September, 2022
+Week: 13 September, 2022 - 20 September, 2022
 
-Go               12 hrs 54 mins  ████████████████████▒░░░░   80.82 % 
-YAML             2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-JSON             51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Go               14 hrs 12 mins  █████████████████████▒░░░   84.94 % 
+YAML             1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+JSON             45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
 
