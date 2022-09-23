@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2022 - 21 September, 2022
+Week: 15 September, 2022 - 22 September, 2022
 
 Go               13 hrs 52 mins  █████████████████████▓░░░   86.24 % 
 YAML             1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
