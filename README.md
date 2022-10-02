@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2022 - 30 September, 2022
+Week: 24 September, 2022 - 01 October, 2022
 
 Go       18 hrs 55 mins  ███████████████████████▒░   92.92 % 
 JSON     56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
