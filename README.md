@@ -9,13 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2022 - 05 October, 2022
+Week: 29 September, 2022 - 06 October, 2022
 
-Go         11 hrs 56 mins  ████████████████████████▒   97.96 % 
-JSON       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Go         8 hrs 29 mins   █████████████████████████   99.79 % 
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
 
