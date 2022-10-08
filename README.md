@@ -9,11 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2022 - 06 October, 2022
+Week: 30 September, 2022 - 07 October, 2022
 
-Go         8 hrs 29 mins   █████████████████████████   99.79 % 
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Go         3 hrs 50 mins   █████████████████████████   99.54 % 
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 
