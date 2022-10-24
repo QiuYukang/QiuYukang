@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2022 - 22 October, 2022
+Week: 16 October, 2022 - 23 October, 2022
 
 Go         27 hrs 43 mins  ████████████████████████▓   98.64 % 
 JSON       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
